@@ -1,4 +1,4 @@
-# Focus-Session-Tracker
+# FocusTracker.java
 
 A Java CLI app that tracks and logs distraction-free focus sessions.
 
